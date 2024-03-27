@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ron-cd! and im
+- 👋 Hi, I’m @ron-cd!
 - Currently Focused on UI/UX Design.
 - 👀 I’m interested in Coffee :p and Helping Others.
 - 🌱 I’m currently learning Java,Python,HTML,CSS And JavaScript.
