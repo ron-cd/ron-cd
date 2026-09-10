@@ -18,5 +18,3 @@ Hi, I'm Aaron Kyle Dela Cruz, Junior Web/App Developer.<br>Currently Studying Ne
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=ron-cd&icon=1&color=0)](https://visitcount.itsvg.in)
