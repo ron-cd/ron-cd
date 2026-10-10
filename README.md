@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aaron Kyle Dela Cruz, Junior Web/App Developer.<br>Currently Studying Networking fundamentals and server side architecture.<br>Joined IBPAP Hackathon Challenge, and CodeChum National Competition.<br>
+Hi, I'm Aaron Kyle Dela Cruz, Junior Web/App Developer.<br>Currently Studying Networking fundamentals and server side architecture.<br>Won IBPAP Hackathon Challenge, and Joined CodeChum National Competition.<br>
 
 
 ## 🌐 Socials:
